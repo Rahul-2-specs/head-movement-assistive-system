@@ -78,7 +78,7 @@ ADXL335 X/Y Analog Acquisition
                                       communication
   -----------------------------------------------------------------------
 
-![Hardware Prototype](assets/hardware_prototype.png)
+![Hardware Prototype](assets/hardware_prototype.jpg)
 
 ### Sensor Connections
 
